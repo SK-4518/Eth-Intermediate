@@ -39,6 +39,11 @@ This project is an application to deploy and integrate a smart contract with the
 
 11. Deposit and Withdraw ETH using the MetaMask wallet.
 
+**User Interface(FRONTEND)**
+
+(https://github.com/SK-4518/Eth-Intermediate/assets/136696857/2fc175b9-3db8-4c10-9b54-1008d5fa7da4)
+
+
 **Code for the tutorial**
 
      // SPDX-License-Identifier: UNLICENSED
