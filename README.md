@@ -135,6 +135,8 @@ This project is an application to deploy and integrate a smart contract with the
 
 7. The function ownerDetails returns the name, country, and status of the owner assuring the legal transaction.
 
+**Video walkthrough**
+https://www.loom.com/share/f707651b300b417dbca436b802ad1ab0?sid=c26e1e6c-b302-4c75-a4a8-411b9ed53c64
 
 **Author**
 
